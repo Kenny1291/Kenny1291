@@ -22,7 +22,7 @@ Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer"
   [![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%red)](https://www.mysql.com/)
   #### 🚶‍♂️Learning:
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-  #### 🧍‍♂️Want to learn:
+  #### 🧍‍♂️Want To Learn:
   [![Elixir](https://img.shields.io/badge/elixir-%2320232a.svg?style=for-the-badge&logo=elixir&logoColor=4B275F)](https://elixir-lang.org/)
   [![Phoenix LiveView](https://img.shields.io/badge/phoenixliveview-%2320232a.svg?style=for-the-badge&logo=phoenix&logoColor=4B275F)](https://www.phoenixframework.org)
   [![VIM](https://img.shields.io/badge/vim-%2320232a.svg?style=for-the-badge&logo=vim&logoColor=019733)](https://www.vim.org/)
