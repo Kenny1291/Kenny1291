@@ -21,9 +21,14 @@ Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer"
   [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%red)](https://tailwindcss.com/)
   [![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%red)](https://www.mysql.com/)
   #### 🚶‍♂️Learning:
+  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
   #### 🧍‍♂️Want to learn:
+  [![Elixir](https://img.shields.io/badge/elixir-%2320232a.svg?style=for-the-badge&logo=elixir&logoColor=4B275F)](https://elixir-lang.org/)
+  [![Phoenix LiveView](https://img.shields.io/badge/phoenixliveview-%2320232a.svg?style=for-the-badge&logo=phoenix&logoColor=4B275F)](https://www.phoenixframework.org)
+  [![VIM](https://img.shields.io/badge/vim-%2320232a.svg?style=for-the-badge&logo=vim&logoColor=019733)](https://www.vim.org/)
   #### 🛌 Used:
-  [![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%red)]()
-  [![C Sharp](https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=239120)]()
+  [![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%red)](https://www.java.com/en/)
+  [![C Sharp](https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  <!--.net, entity framework, vba-->
 
   
