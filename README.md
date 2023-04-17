@@ -10,7 +10,7 @@ Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer"
 ![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-backend&show_owner=true&theme=radical)
 ![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=personale-website-daisyui&show_owner=true&theme=radical)
   
-##  Technologies 
+## ⚡Technologies 
   #### 🏃‍♂️Using:
   [![Laravel](https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%red)](https://laravel.com)
   [![Livewire](https://img.shields.io/badge/livewire-%2320232a.svg?style=for-the-badge&logo=livewire&logoColor=4E56A6)](https://laravel-livewire.com)
