@@ -18,20 +18,21 @@ Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer"
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262)
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
-  [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%red)](https://tailwindcss.com/)
+  [![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%red)](https://tailwindcss.com/)
   [![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%red)](https://www.mysql.com/)
   #### 🚶‍♂️Learning:
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
   #### 🧍‍♂️Want To Learn:
   [![Elixir](https://img.shields.io/badge/elixir-%2320232a.svg?style=for-the-badge&logo=elixir&logoColor=4B275F)](https://elixir-lang.org/)
-  [![Phoenix LiveView](https://img.shields.io/badge/phoenixliveview-%2320232a.svg?style=for-the-badge&logo=phoenix&logoColor=4B275F)](https://www.phoenixframework.org)
+  [![Phoenix LiveView](https://img.shields.io/badge/phoenix_liveview-%2320232a.svg?style=for-the-badge&logo=phoenix&logoColor=4B275F)](https://www.phoenixframework.org)
   [![VIM](https://img.shields.io/badge/vim-%2320232a.svg?style=for-the-badge&logo=vim&logoColor=019733)](https://www.vim.org/)
   #### 🛌 Used:
   [![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%red)](https://www.java.com/en/)
-   [![Oracle Database](https://img.shields.io/badge/oracledatabase-%2320232a.svg?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/database/)
-  [![C Sharp](https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+   [![Oracle Database](https://img.shields.io/badge/oracle_database-%2320232a.svg?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/database/)
+  [![C Sharp](https://img.shields.io/badge/c_sharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)
   [![.NET](https://img.shields.io/badge/.net-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=F80000)](https://dotnet.microsoft.com/en-us/)
   [![GNU Bash](https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
+  [![Cisco IOS](https://img.shields.io/badge/cisco_ios-%2320232a.svg?style=for-the-badge&logo=cisco&logoColor=1BA0D7)](https://www.gnu.org/software/bash/)
   <!--[![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)-->
 
   
