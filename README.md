@@ -28,10 +28,10 @@ Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer"
   [![VIM](https://img.shields.io/badge/vim-%2320232a.svg?style=for-the-badge&logo=vim&logoColor=019733)](https://www.vim.org/)
   #### 🛌 Used:
   [![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%red)](https://www.java.com/en/)
+   [![Oracle Database](https://img.shields.io/badge/oracledatabase-%2320232a.svg?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/database/)
   [![C Sharp](https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)
   [![.NET](https://img.shields.io/badge/.net-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=F80000)](https://dotnet.microsoft.com/en-us/)
   [![GNU Bash](https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
-  [![Oracle Database](https://img.shields.io/badge/oracledatabase-%2320232a.svg?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/database/)
   <!--[![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)-->
 
   
