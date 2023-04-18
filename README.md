@@ -32,6 +32,6 @@ Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer"
   [![.NET](https://img.shields.io/badge/.net-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=F80000)](https://dotnet.microsoft.com/en-us/)
   [![GNU Bash](https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=gnubash&logoColor=4EAA25)](https://www.gnu.org/software/bash/)
   [![Oracle Database](https://img.shields.io/badge/oracledatabase-%2320232a.svg?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/database/)
-  [![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+  <!--[![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)-->
 
   
