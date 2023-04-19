@@ -6,9 +6,9 @@ Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny1291&theme=radical&langs_count=10&layout=compact)](https://github.com/Kenny1291)
 
 ## 📌 Pinned
-![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-frontend&show_owner=true&theme=radical)
-![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-backend&show_owner=true&theme=radical)
-![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=personale-website-daisyui&show_owner=true&theme=radical)
+[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-frontend&show_owner=true&theme=radical)](https://github.com/Kenny1291/board-notes-frontend)
+[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-backend&show_owner=true&theme=radical)](https://github.com/Kenny1291/board-notes-backend)
+[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=personale-website-daisyui&show_owner=true&theme=radical)](https://github.com/Kenny1291/personale-website-daisyui)
   
 ## ⚡Technologies 
   #### 🏃‍♂️Using:
