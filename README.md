@@ -2,13 +2,13 @@
 Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer">Raiquen</a> <img src="https://emoji.discadia.com/emojis/8d8eb5c1-8da3-439e-a61f-c3d37eed1b2a.GIF" width="50">
 
 ## 📈 GitHub Stats 
-[![Anurag’s github stats](https://github-readme-stats-kenny1291.vercel.app/api?username=Kenny1291&theme=radical&show_icons=true)](https://github.com/Kenny1291)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny1291&theme=radical&langs_count=10&layout=compact)](https://github.com/Kenny1291)
+[![Anurag’s github stats](https://github-readme-stats-kenny1291.vercel.app/api?username=Kenny1291&show_icons=true&theme=dark&bg_color=00000000&count_private=true&hide_border=true&title_color=fe428e&icon_color=fde047)](https://github.com/Kenny1291)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny1291&langs_count=10&layout=compact&hide_border=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291)
 
 ## 📌 Pinned
-[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-frontend&show_owner=true&theme=radical)](https://github.com/Kenny1291/board-notes-frontend)
-[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-backend&show_owner=true&theme=radical)](https://github.com/Kenny1291/board-notes-backend)
-[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=personale-website-daisyui&show_owner=true&theme=radical)](https://github.com/Kenny1291/personale-website-daisyui)
+[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-frontend&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/board-notes-frontend)
+[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-backend&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/board-notes-backend)
+[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=personale-website-daisyui&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/personale-website-daisyui)
   
 ## ⚡Technologies 
   #### 🏃‍♂️Using:
