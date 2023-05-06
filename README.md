@@ -21,8 +21,8 @@ Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer"
   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
   [![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%red)](https://tailwindcss.com/)
   [![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%red)](https://www.mysql.com/)
-  #### 🚶‍♂️Learning:
-  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+  <!--#### 🚶‍♂️Learning:
+  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)-->
   #### 🧍‍♂️Want To Learn:
   [![Elixir](https://img.shields.io/badge/elixir-%2320232a.svg?style=for-the-badge&logo=elixir&logoColor=4B275F)](https://elixir-lang.org/)
   [![Phoenix LiveView](https://img.shields.io/badge/phoenix_liveview-%2320232a.svg?style=for-the-badge&logo=phoenix&logoColor=4B275F)](https://www.phoenixframework.org)
