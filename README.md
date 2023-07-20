@@ -7,8 +7,6 @@ Hi there, I'm <a href="http:guidotti.solutions" target="_blank" rel="noreferrer"
 
 ## 📌 Pinned
 [![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=cleaner-twitter&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/cleaner-twitter)
-[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=board-notes-frontend&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/board-notes-frontend)
-[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=random-quote-machine-fcc&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/random-quote-machine-fcc)
   
 ## ⚡Technologies 
   #### 🏃‍♂️Using:
