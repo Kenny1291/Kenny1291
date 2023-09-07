@@ -7,6 +7,7 @@ Hi there, I'm Raiquen <img src="https://emoji.discadia.com/emojis/8d8eb5c1-8da3-
 
 ## 📌 Pinned
 [![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=cleaner-twitter&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/cleaner-twitter)
+[![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=PHP-NUT-Client&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/PHP-NUT-Client)
   
 <!--## ⚡Technologies 
   #### 🏃‍♂️Using:
