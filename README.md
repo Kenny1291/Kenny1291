@@ -1,10 +1,12 @@
-<h3 align="center">
-Hi there, I'm Raiquen <img src="https://emoji.discadia.com/emojis/8d8eb5c1-8da3-439e-a61f-c3d37eed1b2a.GIF" width="50">
+<p align="center">
+  <img src="https://emoji.discadia.com/emojis/8d8eb5c1-8da3-439e-a61f-c3d37eed1b2a.GIF" width="50">
+</p>
 
+<!--
 ## 📈 GitHub Stats 
 [![Github stats](https://github-readme-stats-kenny1291.vercel.app/api?username=Kenny1291&show_icons=true&theme=dark&bg_color=00000000&count_private=true&hide_border=true&title_color=fe428e&icon_color=fde047)](https://github.com/Kenny1291)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny1291&langs_count=10&layout=compact&hide_border=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291)
-
+-->
 <!--## 📌 Pinned
 [![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=cleaner-twitter&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/cleaner-twitter)
 [![Readme Card](https://github-readme-stats-kenny1291.vercel.app/api/pin/?username=kenny1291&repo=PHP-NUT-Client&show_owner=true&title_color=fe428e&theme=dark&bg_color=00000000)](https://github.com/Kenny1291/PHP-NUT-Client)
